@@ -38,7 +38,7 @@ function Header() {
               <Link to="/login" className="ml-4 mr-5">
                 Login
               </Link>
-              <Link to="/logout" className="ml-4 mr-4">
+              <Link to="/signup" className="ml-4 mr-4">
                 Signup
               </Link>
             </div>

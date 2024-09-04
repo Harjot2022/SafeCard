@@ -1,8 +1,9 @@
 import React from 'react'
+import ContactUs from '../../Components/Contact'
 
 function Contact() {
     return (
-        Contact
+        <ContactUs />
     )
 }
 
